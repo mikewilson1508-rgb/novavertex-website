@@ -1,33 +1,25 @@
-NOVAVERTEX PROFESSIONAL WEBSITE STARTER
-========================================
+Rudrafinex Business Solutions — Website Files
 
-Included pages
-- index.html — Home
-- services.html — All service lines
-- about.html — Company approach
-- contact.html — Enquiry page (preview form only)
-- us-uk-accounting.html — Detailed US & UK Accounting page
-- rcm.html — Detailed Revenue Cycle Management page
-- recruitment.html — Detailed US & UK Recruitment page
-- india-accounting-tax.html — Detailed Indian Accounting & Tax page
-- styles.css — Shared responsive design
+Files included
+- index.html: Home page
+- services.html: Service overview
+- about.html: About the company
+- contact.html: Contact/enquiry page
+- us-uk-accounting.html: US & UK accounting services
+- rcm.html: Healthcare revenue cycle management
+- recruitment.html: Recruitment support
+- india-accounting-tax.html: Indian accounting and tax support
+- styles.css: Site styling
 
-PREVIEW
-1. Extract the ZIP to a folder.
-2. Open index.html in Chrome, Edge, or Firefox.
-3. Use the navigation to visit the other pages.
+HOW TO PUBLISH ON GITHUB PAGES
+1. Open your existing GitHub repository for the website.
+2. Upload/replace these files at the repository root. Keep all HTML files and styles.css together.
+3. Commit the changes. GitHub Pages will publish the updated brand after it rebuilds.
+4. Later, when you buy rudrafinex.com, add it in the repository Settings > Pages > Custom domain, then configure DNS with your registrar.
 
-IMAGES
-The pages use image URLs from Unsplash. Internet access is required to load these photos. Replace images with properly licensed business imagery if desired. All copy, layouts, and styles are included locally.
-
-IMPORTANT BEFORE PUBLISHING
-- NovaVertex is a working brand name and should be confirmed.
-- Add approved company email, phone, address, logo and any social links.
-- The contact form is intentionally a demo: it does not send or save messages. Connect and test a form service before launch.
-- Add privacy policy and terms suitable for the actual business and jurisdictions before collecting personal data.
-- Do not collect patient information via the public website form.
-- Review all service descriptions, claims and professional/regulatory boundaries for accuracy.
-- The website is not live or hosted by this ZIP.
-
-FREE HOSTING OPTIONS
-You can publish static HTML/CSS on a free hosting plan such as GitHub Pages or Cloudflare Pages, subject to their current terms. A free hosting subdomain is available; a custom domain typically costs money.
+IMPORTANT BEFORE LAUNCH
+- The contact form is a design placeholder and does not send messages yet. Connect a form service and test it before relying on it.
+- The email address info@rudrafinex.com is a suggested address only; it will work only after you register the domain and set up a mailbox.
+- Confirm the legal business name, service scope, privacy policy, terms, and any required regulatory/professional qualifications before publishing.
+- Images use external Unsplash URLs and require an internet connection.
+- No hosting purchase is required to continue using GitHub Pages.
